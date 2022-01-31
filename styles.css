@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    font-weight: 700;
+    position: relative;
+    top: 60px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Kanit;
+    font-style: italic;
+}
+
+#creator {
+    font-size: 25px;
+    font-family: katir;
+}
+
+main {
+    position: relative;
+    top: 100px;
+}
+
+
+.container {
+    border: 3px solid #616369;
+    width: 80%;
+    height: 500px;
+    margin: 20px auto; 
+    border-radius: 10px;
+}
+
+.bigger-container {
+    border: 3px solid #616369;
+    width: 80%;
+    height: 700px;
+    margin: 20px auto;
+    font-size: 42px;
+    font-family: "Architects Daughter";
+    margin: 10px auto;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+
+.container h3 {
+    font-size: 42px;
+    font-family: "Architects Daughter";
+    margin: 10px auto;
+    text-align: center;
+}
+
+
+
+.colors {
+    margin: 30px auto;
+    height: 400px;
+    width: 1000px;
+}
+
+.colors p {
+    border: 3px solid black;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-family: "Architects Daughter";
+    font-size: 20px;
+    margin: 17px 65px;
+    text-align: center;
+    font-weight: bold;
+    padding: 30px;
+    width: 300px;
+    height: 100px;
+}
+    
+
+#purple { 
+    background-color: #780673;
+
+}
+
+#ocean {
+    background-color: #449CD1;
+}
+
+#skygrey {
+    background-color: #616369;
+
+}
+
+#opacred { 
+    background-color: #FB4141;
+
+}
+
+.fonts {
+    width: 1000px;
+    height: 400px;
+    margin: 30px auto;
+}
+
+.fonts p {
+    display: inline-block;
+    padding: 30px;
+    height: 30px;
+    width: 80%;
+    margin: 0 65px;
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+}
+
+#Architects {
+    font-family: "Architects Daughter", serif;
+}
+
+#Kanit-Extra {
+    font-family: "Kanit", sans-serif;
+    font-style: "Extra-light 200";
+}
+
+#Kanit-Regular {
+    font-family: "Kanit Regular 400 italic", sans-serif;
+    font-style: italic;
+}
+
+#Kanit-Bold {
+    font-family: Kanit;
+    font-style: italic; 
+    font-weight: 700;
+}
+
+.textstyle {
+    width: 90%;
+    height: 80%;
+    margin: 0 50px;
+    text-align: left;
+}
+
+.textstyle .h1 {
+    margin-bottom: 30px;
+}
+
+.textstyle .h1 h1 {
+    font-weight: 700;
+    font-size: 50px;
+    font-family: Kanit;
+    font-style: italic;
+}
+
+.textstyle .h1 li {
+    margin: 5px;
+    font-family: kanit;
+    font-size: 20px;
+    width: 400px;
+    list-style: none;
+}
+
+.textstyle .h3{
+    margin-bottom: 40px;
+
+}
+
+.textstyle .h3 h3 {
+    font-weight: 400;
+    font-size: 30px;
+    font-family: Kanit;
+    font-style: italic;
+    text-align: left;
+
+}
+
+.textstyle .h3 li {
+    margin: 5px;
+    font-family: kanit;
+    font-size: 20px;
+    width: 400px;
+    list-style: none;
+}
+
+.textstyle .paragraph {
+    font-weight: 200;
+    font-size: 20px;
+    font-family: Kanit;
+    margin-top: 10px;
+
+}
+
+.textstyle .paragraph li {
+    margin: 5px;
+    font-family: kanit;
+    font-size: 20px;
+    width: 400px;
+    list-style: none;
+
+}
